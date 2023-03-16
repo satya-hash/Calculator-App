@@ -1,5 +1,7 @@
 # Calculator-App
 
+[Demo](https://flourishing-moxie-190dbf.netlify.app/)
+
 ## Preview
 
 ![preview](./src/assets/calculator.png)
