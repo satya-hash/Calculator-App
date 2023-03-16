@@ -6,7 +6,7 @@ function App() {
 	const [result, setResult] = useState("");
 
 	function handleClick(e) {
-		setResult(result.concat(e.target.name));
+		setResult(result.toString().concat(e.target.name));
 	}
 
 	function clear() {
